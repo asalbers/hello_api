@@ -1,0 +1,56 @@
+{
+    "items": [
+        {
+            "id": "tt9731534",
+            "title": "The Night House",
+            "fullTitle": "The Night House (2020)",
+            "year": "2020",
+            "releaseState": "Opening This Week - August 20",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmIwNjJhOGYtNDcyNi00Yjc4LThiNTktMDM2ZjFhM2YxMTljXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX128_CR0,4,128,176_AL_.jpg",
+            "runtimeMins": "108",
+            "runtimeStr": "1h 48mins",
+            "plot": "A widow begins to uncover her recently deceased husband's disturbing secrets.",
+            "contentRating": "R",
+            "imDbRating": "",
+            "imDbRatingCount": "",
+            "metacriticRating": "64",
+            "genres": "Horror, Thriller",
+            "genreList": [
+                {
+                    "key": "Horror",
+                    "value": "Horror"
+                },
+                {
+                    "key": "Thriller",
+                    "value": "Thriller"
+                }
+            ],
+            "directors": "David Bruckner",
+            "directorList": [
+                {
+                    "id": "nm1410159",
+                    "name": "David Bruckner"
+                }
+            ],
+            "stars": "Rebecca Hall, Sarah Goldberg, Vondie Curtis-Hall, Evan Jonigkeit",
+            "starList": [
+                {
+                    "id": "nm0356017",
+                    "name": "Rebecca Hall"
+                },
+                {
+                    "id": "nm3057022",
+                    "name": "Sarah Goldberg"
+                },
+                {
+                    "id": "nm0193554",
+                    "name": "Vondie Curtis-Hall"
+                },
+                {
+                    "id": "nm2797756",
+                    "name": "Evan Jonigkeit"
+                }
+            ]
+        }
+    ]
+}
